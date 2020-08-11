@@ -9,5 +9,13 @@
     android:id="@+id/action_cancelar"
     android:title="Cancelar"
     app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_buscar"
+        android:title="Buscar"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_eliminar"
+        android:title="Eliminar"
+        app:showAsAction="ifRoom"/>
 
 </menu>
